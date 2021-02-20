@@ -1,0 +1,507 @@
+{
+  "clientes": [
+    {
+      "id": 2,
+      "nome": "Diego",
+      "email": "diegothome@gmail.com",
+      "documento": "545454",
+      "celular": "5454587",
+      "ativo": "S",
+      "endereco": {
+        "cep": "18520000",
+        "numero": "100",
+        "complemento": "545454",
+        "endereco": "Rua x",
+        "bairro": "545454",
+        "cidade": "Cerquilho",
+        "estado": "SP"
+      }
+    },
+    {
+      "id": 3,
+      "nome": "Marcos xt sdf",
+      "email": "asdfasdf@gmail.com",
+      "documento": null,
+      "celular": "15445454",
+      "ativo": "S",
+      "endereco": {
+        "cep": "18530000",
+        "numero": "462",
+        "complemento": "",
+        "endereco": "Rua X",
+        "bairro": "asdfasd",
+        "cidade": "Tietê",
+        "estado": "SP"
+      }
+    },
+    {
+      "id": 4,
+      "nome": "Julio Thomé",
+      "email": "asdfasdf@asdf.cm",
+      "documento": null,
+      "celular": "asdfsdf",
+      "ativo": "S",
+      "endereco": {
+        "cep": "18520000",
+        "numero": "15454",
+        "complemento": "",
+        "endereco": "asdfasdf",
+        "bairro": "sdfsf",
+        "cidade": "Cerquilho",
+        "estado": "SP"
+      }
+    },
+    {
+      "id": 5,
+      "nome": "Jonas",
+      "email": "teste@gmail.com",
+      "documento": null,
+      "celular": "asdfasdf",
+      "ativo": "S",
+      "endereco": {
+        "cep": "18520000",
+        "numero": "462",
+        "complemento": "",
+        "endereco": "Rua X",
+        "bairro": "Galo",
+        "cidade": "Cerquilho",
+        "estado": "SP"
+      }
+    },
+    {
+      "id": 6,
+      "nome": "Diego",
+      "email": "diegothome@gmail.com",
+      "documento": "545454",
+      "celular": "5454587",
+      "ativo": "S",
+      "endereco": {
+        "cep": "18520000",
+        "numero": "100",
+        "complemento": "545454",
+        "endereco": "Rua x",
+        "bairro": "545454",
+        "cidade": "Cerquilho",
+        "estado": "SP"
+      }
+    },
+    {
+      "id": 8,
+      "nome": "Julio Cesar Thomé",
+      "email": "asdfasdf@asdf.cm",
+      "documento": null,
+      "celular": "asdfsdf",
+      "ativo": "S",
+      "endereco": {
+        "cep": "18520000",
+        "numero": "15454",
+        "complemento": "",
+        "endereco": "asdfasdf",
+        "bairro": "sdfsf",
+        "cidade": "Cerquilho",
+        "estado": "SP"
+      }
+    },
+    {
+      "id": 9,
+      "nome": "Jonas ",
+      "email": "teste_xt@gmail.com",
+      "documento": null,
+      "celular": "asdfasdf",
+      "ativo": "S",
+      "endereco": {
+        "cep": "18520000",
+        "numero": "462",
+        "complemento": "XT",
+        "endereco": "Rua X",
+        "bairro": "Galo",
+        "cidade": "Cerquilho",
+        "estado": "SP"
+      }
+    },
+    {
+      "id": 11,
+      "nome": "Marcos",
+      "email": "asdfasdf@gmail.com",
+      "documento": null,
+      "celular": "15445454",
+      "ativo": "S",
+      "endereco": {
+        "cep": "18520000",
+        "numero": "462",
+        "complemento": "",
+        "endereco": "Rua X",
+        "bairro": "asdf",
+        "cidade": "Cerquilho",
+        "estado": "SP"
+      }
+    },
+    {
+      "id": 12,
+      "nome": "Julio",
+      "email": "asdfasdf@asdf.cm",
+      "documento": null,
+      "celular": "asdfsdf",
+      "ativo": "S",
+      "endereco": {
+        "cep": "18520000",
+        "numero": "15454",
+        "complemento": "",
+        "endereco": "asdfasdf",
+        "bairro": "sdfsf",
+        "cidade": "Cerquilho",
+        "estado": "SP"
+      }
+    },
+    {
+      "id": 13,
+      "nome": "Jonas",
+      "email": "teste@gmail.com",
+      "documento": null,
+      "celular": "asdfasdf",
+      "ativo": "S",
+      "endereco": {
+        "cep": "18520000",
+        "numero": "462",
+        "complemento": "",
+        "endereco": "Rua X",
+        "bairro": "Galo",
+        "cidade": "Cerquilho",
+        "estado": "SP"
+      }
+    },
+    {
+      "id": 14,
+      "nome": "Samuel",
+      "email": "samuel@gmail.com",
+      "documento": null,
+      "celular": "1587878787",
+      "ativo": "S",
+      "endereco": {
+        "cep": "18530000",
+        "numero": "454",
+        "complemento": "",
+        "endereco": "Rua Vixi",
+        "bairro": "Centro",
+        "cidade": "Tietê",
+        "estado": "SP"
+      }
+    },
+    {
+      "id": 15,
+      "nome": "Silvio",
+      "email": "silvio@gmail.com",
+      "documento": null,
+      "celular": "15878787",
+      "ativo": "S",
+      "endereco": {
+        "cep": "18530000",
+        "numero": "462",
+        "complemento": "",
+        "endereco": "Rua Vixi",
+        "bairro": "Centro",
+        "cidade": "Tietê",
+        "estado": "SP"
+      }
+    },
+    {
+      "id": 16,
+      "nome": "Sabrina",
+      "email": "sabrina@gmail.com",
+      "documento": null,
+      "celular": "15979898",
+      "ativo": "S",
+      "endereco": {
+        "cep": "18520000",
+        "numero": "360",
+        "complemento": null,
+        "endereco": "Rua Portugal",
+        "bairro": "Nova Cerquilho",
+        "cidade": "Cerquilho",
+        "estado": "SP"
+      }
+    },
+    {
+      "id": 17,
+      "nome": "Thiago XT",
+      "email": "asdfasd@adskfasdf.com",
+      "documento": null,
+      "celular": "545454",
+      "ativo": "S",
+      "endereco": {
+        "cep": "18520000",
+        "numero": "420",
+        "complemento": null,
+        "endereco": "Rua X",
+        "bairro": "teste",
+        "cidade": "Cerquilho",
+        "estado": "SP"
+      }
+    },
+    {
+      "id": 18,
+      "nome": "xtt",
+      "email": "xasdfsdaf@adsfsadf",
+      "documento": "a",
+      "celular": "asdfasdf",
+      "ativo": "S",
+      "endereco": {
+        "cep": "18520000",
+        "numero": "462",
+        "complemento": null,
+        "endereco": "Rua Xxxx",
+        "bairro": "Galo",
+        "cidade": "Cerquilho",
+        "estado": "SP"
+      }
+    }
+  ],
+  "servicos": [
+    {
+      "id": 1,
+      "nome": "Sistema ERP",
+      "valor": 5.89
+    },
+    {
+      "id": 2,
+      "nome": "Confisa Mobile",
+      "valor": 12000.89
+    },
+    {
+      "id": 3,
+      "nome": "Confisa Mail",
+      "valor": 7520.89
+    },
+    {
+      "id": 5,
+      "nome": "asdfasdf",
+      "valor": 10
+    }
+  ],
+  "quadros": [
+    {
+      "id": 1,
+      "descricao": "Assinaturas",
+      "trilhas": [
+        {
+          "titulo": "A fazer",
+          "id": "todo",
+          "cor": "#FE2E2E",
+          "tarefas": [
+            {
+              "id": 2,
+              "titulo": "Instalar banco",
+              "descricao": "Instalar o banco de dados postgresql"
+            },
+            {
+              "id": 1,
+              "titulo": "Instalar",
+              "descricao": "Instalar o sistema no pc do cliente"
+            }
+          ]
+        },
+        {
+          "titulo": "Fazendo",
+          "id": "inprogress",
+          "cor": "#6A5ACD",
+          "tarefas": [
+            {
+              "id": 422,
+              "titulo": "Cadastar empresa",
+              "descricao": "Cadastrar a empresa, configurar o certificado, criar o usuário inicial para o responsável."
+            }
+          ]
+        },
+        {
+          "titulo": "Concluído",
+          "id": "ddone",
+          "cor": "#64FE2E",
+          "tarefas": [
+            {
+              "id": 5,
+              "titulo": "Baixar instalador",
+              "descricao": "Entrar no site e baixar o instalador "
+            },
+            {
+              "id": 32,
+              "titulo": "Liberar firewall",
+              "descricao": "Liberar as portas 1999 no firewall"
+            },
+            {
+              "id": 311,
+              "titulo": "Liberar firewall",
+              "descricao": "Liberar as portas 1999 no firewall"
+            },
+            {
+              "id": 44,
+              "titulo": "Cadastar empresa",
+              "descricao": "Cadastrar a empresa, configurar o certificado, criar o usuário inicial para o responsável."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "descricao": "Cancelamentos",
+      "trilhas": [
+        {
+          "titulo": "A fazer",
+          "id": "todo",
+          "cor": "#FE2E2E",
+          "tarefas": [
+            {
+              "id": 3,
+              "titulo": "Liberar firewall",
+              "descricao": "Liberar as portas 1999 no firewall vvvvvvvvvv ggggggg"
+            },
+            {
+              "id": 0,
+              "titulo": "teste",
+              "descricao": "xxxxxxxxxxxxxxx"
+            }
+          ]
+        },
+        {
+          "titulo": "Fazendo",
+          "id": "inprogress",
+          "cor": "#6A5ACD",
+          "tarefas": [
+            {
+              "id": 4,
+              "titulo": "Cadastar empresa TESTE",
+              "descricao": "Cadastrar a empresa, configurar o certificado, criar o usuário inicial para o responsável. TESTE"
+            },
+            {
+              "id": 0,
+              "titulo": "vixi",
+              "descricao": "que doido"
+            }
+          ]
+        },
+        {
+          "titulo": "Concluído",
+          "id": "ddone",
+          "cor": "#64FE2E",
+          "tarefas": [
+            {
+              "id": 5,
+              "titulo": "Baixar instalador XXXX",
+              "descricao": "Entrar no site e baixar o instalador "
+            },
+            {
+              "id": 2,
+              "titulo": "Instalar banco XXX",
+              "descricao": "Instalar o banco de dados postgresql"
+            },
+            {
+              "id": 1,
+              "titulo": "Instalar XXX",
+              "descricao": "Instalar o sistema no pc do cliente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "descricao": "adf",
+      "trilhas": [
+        {
+          "titulo": "A fazer",
+          "id": "todo",
+          "cor": "#FE2E2E",
+          "tarefas": []
+        },
+        {
+          "titulo": "Fazendo",
+          "id": "inprogress",
+          "cor": "#6A5ACD",
+          "tarefas": [
+            {
+              "id": 0,
+              "titulo": "vvvvvvv",
+              "descricao": "ttttttttttt"
+            },
+            {
+              "id": 0,
+              "titulo": "mano",
+              "descricao": "agora sim heim"
+            }
+          ]
+        },
+        {
+          "titulo": "Concluído",
+          "id": "ddone",
+          "cor": "#64FE2E",
+          "tarefas": [
+            {
+              "id": 0,
+              "titulo": "o loco mano",
+              "descricao": "show heim"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processos": [
+    {
+      "id": 1,
+      "descricao": "Processos para assinatura do contrato",
+      "observacao": "Passo a passo do processo de assinatura do contrato",
+      "passos": [
+        {
+          "id": 1,
+          "descricao": "Conferir os dados cadastrais"
+        },
+        {
+          "id": 2,
+          "descricao": "Enviar o contrato para assinatura"
+        },
+        {
+          "id": 3,
+          "descricao": "Conferir contrato assinado"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "descricao": "Processos para cancelamento do contrato",
+      "observacao": "Passo a passo do processo de cancelamento do contrato",
+      "passos": [
+        {
+          "id": 1,
+          "descricao": "Verificar pendências financeiras"
+        },
+        {
+          "id": 2,
+          "descricao": "Enviar o rescisão"
+        },
+        {
+          "id": 3,
+          "descricao": "Conferir rescisão assinada"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "descricao": "Insltaar o pc",
+      "observacao": null,
+      "passos": [
+        {
+          "id": 0,
+          "descricao": "ligar na tomada"
+        },
+        {
+          "id": 1,
+          "descricao": "fazer aquilo"
+        },
+        {
+          "id": 2,
+          "descricao": "xt"
+        }
+      ]
+    }
+  ]
+}
